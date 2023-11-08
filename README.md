@@ -1,4 +1,4 @@
-I kept having to recreate this over and over again, so I decided to put it in a git.  React 17.0.2 with typescript and basic routing.
+I kept having to recreate this over and over again, so I decided to put it in a git.  React 17.0.2 with typescript, jest test setup,  and basic routing.
 
 # Getting Started with Create React App
 
